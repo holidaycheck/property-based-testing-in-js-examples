@@ -1,0 +1,21 @@
+{
+  "name": "property-based-testing-in-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jsverify": "^0.8.2",
+    "mocha": "^3.4.2",
+    "mocha-testcheck": "^1.0.0-rc.0",
+    "object-hash": "^1.1.8",
+    "power-assert": "^1.4.4",
+    "quick_check": "^0.7.0",
+    "ramda": "^0.24.1",
+    "testcheck": "^1.0.0-rc.2"
+  }
+}
